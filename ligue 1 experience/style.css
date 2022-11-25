@@ -1,10 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-
+  box-sizing: border-box;
 }
 body {
-  background-color: rgba(47, 48, 51, 1);
+  background: linear-gradient(black , darkblue);
   margin: 0;
   padding: 0;
 }
@@ -13,71 +13,75 @@ body {
   background-image: url("assets/stade.jpg");
   height: 250px;
   width: 100%;
-  background-size:cover;
+  background-size: cover;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  margin:0;
+  gap:100px;
   text-decoration: none;
 }
-img{
-  height: 200px;
-  width: 300px;
+.form{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  gap: 10px;
 }
-
-.btn{
-  width: 0;
-  height: 0;
-}
-
-.btn :hover{
-  background-color: white;
-  transition-duration: 0.3s;;
+.logo img {
+  height:50%;
+  width:50%;
+  margin:25%;
 }
 
 .nav {
   display: flex;
-  justify-content: space-around;
-  gap:80px;
-  width: 0;
-  height:0;
-
+  justify-content:space-between;
+  align-items: center;
+  gap: 20px;
+ 
 }
 .nav a {
+  display:flex;
+  justify-content: space-between;
   text-decoration: none;
-  color:white;
+  color: white;
   transition-duration: 0.3s;
-  height: 20px;
+  height:30px;
+  font-size: 25px;
 }
 
 .nav a:hover {
-  background-color: rgb(59, 97, 211);
+  background-color:darkblue;
 }
 
-form.search input[type="text"] {
+form.search input {
   padding: 10px;
   font-size: 10px;
   border: 1px solid grey;
-  float: left;
+  float:left;
   width: 80%;
   height: 5px;
   background: #f1f1f1;
 }
 
-
-.clubs {
+.clubs .crest {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; 
 }
+
 .crest img {
   width: 30px;
   height: 30px;
   margin: 20px;
 }
 
+h1{
+color:white;
+margin:10%;
+}
+
 .firstelement {
-  background-color: rgba(47, 48, 51, 1);
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -108,7 +112,6 @@ form.search input[type="text"] {
   align-items: center;
   height: 300px;
   width: 100%;
-  background-color: rgba(47, 48, 51, 1);
   color: black;
   gap: 13%;
 }
@@ -125,7 +128,6 @@ form.search input[type="text"] {
   width: 150px;
 }
 .game {
-  background-color: rgba(47, 48, 51, 1);
   display: flex;
   justify-content: space-around;
   width: 100%;
@@ -134,7 +136,7 @@ form.search input[type="text"] {
 .gazon {
   width: 400px;
   height: 80%;
-  background-color: green;
+  background: linear-gradient(rgba(18, 66, 20, 1),green);
   color: white;
   text-align: center;
   text-transform: uppercase;
@@ -147,6 +149,6 @@ form.search input[type="text"] {
 }
 
 .footer {
-  background-color: rgba(18, 66, 20, 1);
-  height: 100px;
+  background: linear-gradient(rgba(18, 66, 20, 1),green);
+  height: 150px;
 }

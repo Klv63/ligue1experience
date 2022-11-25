@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-
 }
 body {
   background-color: rgba(47, 48, 51, 1);
@@ -13,38 +12,37 @@ body {
   background-image: url("assets/stade.jpg");
   height: 250px;
   width: 100%;
-  background-size:cover;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-decoration: none;
 }
-img{
-  height: 200px;
+img {
+  height: 180px;
   width: 300px;
 }
 
-.btn{
+.btn {
   width: 0;
   height: 0;
 }
 
-.btn :hover{
+.btn :hover {
   background-color: white;
-  transition-duration: 0.3s;;
+  transition-duration: 0.3s;
 }
 
 .nav {
   display: flex;
   justify-content: space-around;
-  gap:80px;
+  gap: 10%;
   width: 0;
-  height:0;
-
+  height: 0;
 }
 .nav a {
   text-decoration: none;
-  color:white;
+  color: white;
   transition-duration: 0.3s;
   height: 20px;
 }
@@ -62,7 +60,6 @@ form.search input[type="text"] {
   height: 5px;
   background: #f1f1f1;
 }
-
 
 .clubs {
   display: flex;

@@ -16,7 +16,7 @@ body {
   position: relative;
   width: 100%;
   height: 250px;
-  background: url("stade.jpg") no-repeat center center;
+  background: url("assets/stade.jpg") no-repeat center center;
   background-size: cover;
 }
 .layer {

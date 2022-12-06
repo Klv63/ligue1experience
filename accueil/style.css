@@ -78,19 +78,26 @@ form.search input {
 
 h1 {
   color: white;
-  margin: 10%;
-}
-
-h5 {
-  color: white;
-  width: 20px;
-  height: 20;
 }
 
 p {
-  color: white;
+  color: black;
   width: 20px;
   height: 20;
+}
+
+.actu {
+  background-color: white;
+  width: 25%;
+  height: 25%;
+  display: flex;
+  justify-content: left;
+  margin: 50px;
+  gap: 200px;
+}
+
+h1 {
+  margin: 50px;
 }
 
 .cards {
@@ -100,23 +107,8 @@ p {
   align-items: center;
 }
 
-.news {
-  width: 300px;
-  height: 150px;
-  background-color: white;
-  color: black;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.news img {
-  width: 200x;
-  height: 200px;
-}
-
 .table {
   width: 150px;
-  height: 80%;
   background-color: white;
   color: black;
   text-align: center;

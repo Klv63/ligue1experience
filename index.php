@@ -1,6 +1,6 @@
 <?php
 
-include 'C:\Dev\project\ligue 1 experience\partials\header.php';
+include './partials/header.php';
 
 ?>
 
@@ -233,7 +233,7 @@ include 'C:\Dev\project\ligue 1 experience\partials\header.php';
 </body>
 <?php
 
-include 'C:\Dev\project\ligue 1 experience\partials\footer.php';
+include './partials/footer.php';
 
 ?>
 

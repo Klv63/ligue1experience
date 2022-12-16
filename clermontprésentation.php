@@ -1,23 +1,23 @@
 <?php
 
-include 'C:\Dev\project\ligue 1 experience\partials\header.php';
+include './partials/headerclub.php';
 
 ?>
 
 <body>
-    <div class="stade">
+    <div class="stadecl">
 
 
-        <img src="Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:150px;height:150px">
+        <img src="accueil/Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:150px;height:150px">
 
     </div>
 
     </div>
     <div class="navclub">
-        <a href="clermontprésentation.html">Présentation</a>
-        <a href="clermonteffectif.html">Effectif</a>
-        <a href="clermonteffectif.html">Statistiques</a>
-        <a href="clermonteffectif.html">Palmarès</a>
+        <a href="clermontprésentation.php">Présentation</a>
+        <a href="clermonteffectif.php">Effectif</a>
+        <a href="clermonteffectif.php">Statistiques</a>
+        <a href="clermonteffectif.php">Palmarès</a>
     </div>
     <br>
     <br>
@@ -91,7 +91,7 @@ include 'C:\Dev\project\ligue 1 experience\partials\header.php';
 </body>
 <?php
 
-include 'C:\Dev\project\ligue 1 experience\partials\footer.php';
+include './partials/footer.php';
 
 ?>
 

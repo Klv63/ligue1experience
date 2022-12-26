@@ -23,8 +23,8 @@ body {
 }
 .form {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  justify-content:right;
+  align-items:flex-end;
   gap: 10px;
 }
 .logo img {
@@ -266,9 +266,7 @@ p {
 }
 
 
-.ballon{
-  text-align:center;
-}
+
 
 .logoclubs{
   flex-direction: row;
@@ -305,6 +303,7 @@ a {
   color:white;
   text-align: center;
   margin: 30px 30px;
+  margin-bottom: 100px;
   font-family: 'Secular One', sans-serif;
 
 }
@@ -546,6 +545,117 @@ a {
   text-decoration: none;
   
 }
+
+.imgcle {
+  background-image: url("assets/trophee.png");
+  height: 50px;
+  width: 60px;
+  background-size: cover;
+ 
+}
+
+.palmares{
+  font-size: 26px;
+  color:white;
+  text-align: center;
+  margin: 20px 30px;
+  font-family: 'Secular One', sans-serif;
+  font-weight:bold;
+
+}
+
+.titretrophee{
+
+  font-size: 18px;
+  color:white;
+  text-align: left;
+  margin-top:  100px;
+  margin-left: 20px;
+  text-decoration: underline;
+  font-family: 'Secular One', sans-serif;
+
+}
+
+.formepalm{
+  color:rgb(248, 241, 241);
+  font-size: 16px;
+  text-align: left;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+.formepalm2{
+  color:rgb(248, 241, 241);
+  font-size: 16px;
+  text-align: left;
+  padding-left: 220px;
+  padding-top: 50px;
+}
+
+.formepalm3{
+  color:rgb(248, 241, 241);
+  font-size: 16px;
+  text-align: left;
+  padding-left: 240px;
+  padding-top: 50px;
+}
+
+.formestat{
+  color:rgb(248, 241, 241);
+  font-size: 23px;
+  text-align: left;
+  margin
+  padding-left:120px;
+  padding-top: 20px;
+}
+
+.cardstat {
+
+  width: 600px; /*1*/
+  gap: 120px; /*2*/
+  background-color: rgb(14, 14, 14); /*3*/
+  box-shadow: 0px 5px 20px rgb(236, 235, 235); /*4*/
+  margin: 15px;
+  padding-left: 140px;
+  padding-inline: 150px;
+
+}
+
+.card{
+
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap:60px;
+}
+
+.text{
+
+  color:rgb(248, 241, 241);
+  font-size: 22px;
+  padding-left: -50px;
+  padding-right: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+.text2{
+
+  color:rgb(248, 241, 241);
+  font-size: 26px;
+  padding-right: 40px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+h2{
+
+  color:rgb(254, 252, 252);
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 <?php
 
-include './partials/headerclub.php';
+include './partials/header.php';
 
 ?>
 
@@ -14,17 +14,15 @@ include './partials/headerclub.php';
 
     </div>
     <div class="navclub">
-        <a href="clermontprésentation.php">Présentation</a>
+        <a href="clermontpresentation.php">Présentation</a>
         <a href="clermonteffectif.php">Effectif</a>
-        <a href="clermonteffectif.php">Statistiques</a>
-        <a href="clermonteffectif.php">Palmarès</a>
+        <a href="clermontstat.php">Statistiques</a>
+        <a href="clermontpalmares.php">Palmarès</a>
     </div>
     <br>
     <br>
     </div>
-    <div class="ballon">
-        <img src="ballon.png" alt="ballon" href="ballon" style="width:40px;height:40px">
-    </div>
+  
     <div class="titreclub">CLERMONT FOOT 63</div>
     <br>
     <br>
@@ -262,6 +260,8 @@ include './partials/headerclub.php';
         </tr>
 
     </table>
+    <br>
+    <br>
     <br>
     <br>
 </body>

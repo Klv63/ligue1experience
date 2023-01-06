@@ -11,7 +11,7 @@ body {
 }
 
 .top-header {
-  background-image: url("assets/stade.jpg");
+  background-image: url("/assets/stade.jpg");
   height: 250px;
   width: 100%;
   background-size: cover;

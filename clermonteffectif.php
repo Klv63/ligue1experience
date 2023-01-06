@@ -8,7 +8,7 @@ include './partials/header.php';
     <div class="stadecl">
 
 
-        <img src="accueil/Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:150px;height:150px">
+        <img src="assets/Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:150px;height:150px">
 
     </div>
 

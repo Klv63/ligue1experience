@@ -4,38 +4,44 @@ include './partials/header.php';
 
 ?>
 
-
 <body>
     <div class="clubs">
         <div class="crest">
-            <img src="accueil\Blasons Ligue 1\Ajaccio.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Auxerre.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Anger.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Brest.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Clermont-Ferrand.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Lens.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Lilles.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Lorient.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Lyon.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Marseille.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Monaco.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Montpellier.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Nantes.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Nice.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Paris SG.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Reims.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\RENNES.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Strasbourg.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Toulouse.png" alt="crest" href="blason" />
-            <img src="accueil\Blasons Ligue 1\Troyes.png" alt="crest" href="blason" />
+            <a href=""><img src="accueil\Blasons Ligue 1\Ajaccio.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Auxerre.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Anger.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Brest.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Clermont-Ferrand.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Lens.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Lilles.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Lorient.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="accueil\Blasons Ligue 1\Lyon.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Marseille.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Monaco.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Montpellier.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Nantes.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Nice.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Paris SG.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="accueil\Blasons Ligue 1\Reims.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\RENNES.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Strasbourg.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="accueil\Blasons Ligue 1\Toulouse.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="accueil\Blasons Ligue 1\Troyes.png" alt="crest" href="blason" /></a>
         </div>
     </div>
     <h1><b>Actualité</b></h1>
     <div class="actu">
         <div class="news">
-            <p>Et facilis corporisut ullam sapiente est fuga modi!
-                Et facilis corporisut ullam sapiente est fuga modi!
-            </p>
+            <div class="p">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                ullamco laboris nisi
+                ut aliquip ex
+                ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+                velit esse cillum dolore eu fugiat
+                nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+                culpa qui officia deserunt mollit
+                anim id est laborum.</div>
             <img src="assets\image4.jpg" alt="news" href="news">
         </div>
         <div class="table">
@@ -214,8 +220,7 @@ include './partials/header.php';
         <div class="template">
             <div class="gazon">
                 <p>Mon petit gazon</p>
-                <img src="assets\Mon-Petit-Gazon-veut-surfer-sur-la-vague-de-la-Coupe-du-monde.webp" alt="gazon"
-                    href="gazon">
+                <img src="assets\Mon-Petit-Gazon-veut-surfer-sur-la-vague-de-la-Coupe-du-monde.webp" alt="gazon" href="gazon">
             </div>
             <div class="table">
                 <table>
@@ -227,9 +232,6 @@ include './partials/header.php';
     </div>
 
     </html>
-
-    </html>
-
 </body>
 <?php
 

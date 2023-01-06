@@ -28,7 +28,7 @@
             <div class="nav">
                 <a href="#">Accueil</a>
                 <a href="#">Club</a>
-                <a href="#">Classement/Statistiques</a>
+                <a href="#">Statistiques</a>
                 <a href="#">News</a>
                 <a href="#">Boutique</a>
             </div>

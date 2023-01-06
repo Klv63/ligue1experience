@@ -30,7 +30,7 @@ include './partials/header.php';
     <br>
     <div class="bordure"> Effectif</div>
     <br>
-    <table style="width:80%">
+    <table style="width:60%">
         <tr>
             <th class="formeeffectif"> N°</th>
             <th class="formeeffectif"> Nom</th>
@@ -43,7 +43,7 @@ include './partials/header.php';
     <br>
     <div class="trait_dessus"></div>
 
-    <table style="width:80%">
+    <table style="width:60%">
         <tr>
             <th class="formeeffectif2"> 99</th>
             <th class="formeeffectif2"> M.Diaw</th>
@@ -70,7 +70,7 @@ include './partials/header.php';
     <br>
     <div class="trait_dessus"></div>
 
-    <table style="width:80%">
+    <table style="width:60%">
         <tr>
             <th class="formeeffectif2"> 35</th>
             <th class="formeeffectif2"> B.Boit</th>

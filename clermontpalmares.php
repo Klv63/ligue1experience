@@ -48,11 +48,11 @@ include './partials/header.php';
     <table style="width:80%">
         <tr>
             <th class="formepalm2"> 1/4 DE FINALE :</th>
-            <th class="formepalm2"> 2005</th>
+            <th class="formepalm4"> 2005</th>
         </tr>  
         <tr>
             <th class="formepalm2">1/4 DE FINALE : </th>
-            <th class="formepalm2">1997</th>
+            <th class="formepalm4">1997</th>
         </tr>
     </table>
 
@@ -61,7 +61,7 @@ include './partials/header.php';
     <table style="width:80%">
         <tr>
             <th class="formepalm3"> 1/4 DE FINALE :</th>
-            <th class="formepalm3"> 2005</th>
+            <th class="formepalm5"> 2005</th>
         </tr>  
     </table>
 

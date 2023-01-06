@@ -24,10 +24,10 @@ include './partials/header.php';
 
 </tr>
 <tr>
-<td><img src="accueil/Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:210px;height:210px" ></td>
-<td><img src="/assets/image6.jpg" alt="logocl" href="joueurcl" style="width:210px;height:210px"></td>
-<td><img src="/assets/image5.jpg" alt="logocl" href="joueurcl" style="width:210px;height:210px" ></td>
 
+<td><img src="/assets/mbappe2.jpg" alt="joueurcl" href="joueurcl" style="width:210px;height:210px" ></td>
+<td><img src="/assets/messi.jpg" alt="joueurcl" href="joueurcl" style="width:210px;height:210px"></td>
+<td><img src="/assets/gardien.jpg" alt="joueurcl" href="joueurcl" style="width:210px;height:210px" ></td>
 
 </tr>
 <tr>
@@ -42,16 +42,16 @@ include './partials/header.php';
 <table class="t1">
 
 <tr>
-<th><h2> MEILLEUR BUTEUR </h2></th>
-<th><h2> MEILLEUR PASSEUR </h2></th>
-<th><h2> MEILLEUR GARDIEN </h2></th>
+<th><h2> MEILLEUR ATTAQUE </h2></th>
+<th><h2> MEILLEUR DEFENSE </h2></th>
+<th><h2> MEILLEUR POSSESSION </h2></th>
 
 
 </tr>
 <tr>
-<td><img src="accueil/Blasons Ligue 1\Clermont-Ferrand.png" alt="logocl" href="logocl" style="width:210px;height:210px" ></td>
-<td><img src="/assets/image6.jpg" alt="logocl" href="joueurcl" style="width:210px;height:210px"></td>
-<td><img src="/assets/image5.jpg" alt="logocl" href="joueurcl" style="width:210px;height:210px" ></td>
+<td><img src="accueil/Blasons Ligue 1\Paris SG.png" alt="joueurcl" href="joueurcl" style="width:210px;height:210px" ></td>
+<td><img src="/assets/messi.jpg" alt="joueurcl" href="joueurcl" style="width:210px;height:210px"></td>
+<td><img src="/assets/gardien.jpg" alt="joueurcl" href="joueurcl" style="width:210px;height:210px" ></td>
 
 
 </tr>

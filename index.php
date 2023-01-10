@@ -2,6 +2,7 @@
 
 include './partials/header.php';
 
+
 ?>
 
 <body>
@@ -45,8 +46,8 @@ include './partials/header.php';
             <img src="assets\image4.jpg" alt="news" href="news">
         </div>
         <div class="table">
-            <h2>Classements Ligue 1</h2>
             <table>
+                <h2>Classements Ligue 1</h2>
                 <tr>
                     <th>P</th>
                     <th>Equipes</th>
@@ -197,8 +198,6 @@ include './partials/header.php';
             </table>
         </div>
     </div>
-    </div>
-    </div>
     <div class="cards">
         <div class="card">
             <img src="assets\image2.jpg" alt="news" href="news">
@@ -220,11 +219,12 @@ include './partials/header.php';
         <div class="template">
             <div class="gazon">
                 <p>Mon petit gazon</p>
-                <img src="assets\Mon-Petit-Gazon-veut-surfer-sur-la-vague-de-la-Coupe-du-monde.webp" alt="gazon" href="gazon">
+                <img src="assets\Mon-Petit-Gazon-veut-surfer-sur-la-vague-de-la-Coupe-du-monde.webp" alt="gazon"
+                    href="gazon">
             </div>
             <div class="table">
+                <h2>Calendrier ligue 1</h2>
                 <table>
-                    <h2>Calendrier ligue 1</h2>
                     <tr></tr>
                 </table>
             </div>

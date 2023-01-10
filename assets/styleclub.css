@@ -11,9 +11,9 @@ body {
 }
 
 .top-header {
-  background-image: url("assets/stade.jpg");
+  background-image: url("/assets/stade.jpg");
   height: 250px;
-  width:100%;
+  width: 100%;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -23,8 +23,8 @@ body {
 }
 .form {
   display: flex;
-  justify-content:right;
-  align-items:flex-end;
+  justify-content: right;
+  align-items: flex-end;
   gap: 10px;
 }
 .logo img {
@@ -35,7 +35,7 @@ body {
 
 .nav {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   align-items: center;
   margin-right: 20px;
   gap: 22px;
@@ -168,371 +168,300 @@ p {
   gap: 20px;
 }
 
-
 .titreclub {
-
   font-size: 25px;
-  color:white;
+  color: white;
   text-align: center;
   margin: 30px 30px;
-  font-family: 'Secular One', sans-serif;
-
+  font-family: "Secular One", sans-serif;
 }
 
 .navclub {
-    display: flex;
-    justify-content:center;
-    align-items: center;
-    gap: 100px 180px;
-    margin: 40px 10px;
-   
-  }
-  .navclub a {
-    display:flex;
-    justify-content: space-between;
-    color: rgb(248, 241, 241);
-    transition-duration: 0.3s;
-    height:20px;
-    font-size: 22px;
-    margin: 30px;
-   
-   text-decoration-line:none;
-   
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px 180px;
+  margin: 40px 10px;
+}
+.navclub a {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(248, 241, 241);
+  transition-duration: 0.3s;
+  height: 20px;
+  font-size: 22px;
+  margin: 30px;
 
-  .navclub a:hover {
+  text-decoration-line: none;
+}
 
-    background-color: blue;
-  }
+.navclub a:hover {
+  background-color: blue;
+}
 
-.forme{
-
-  color:rgb(248, 241, 241);
+.forme {
+  color: rgb(248, 241, 241);
   font-size: 20px;
   text-align: left;
   padding-left: 50px;
   padding-top: 70px;
 }
 
-.forme2{
-
-  color:rgb(248, 241, 241);
+.forme2 {
+  color: rgb(248, 241, 241);
   font-size: 20px;
   text-align: left;
   padding-left: 50px;
   padding-top: 10px;
 }
 
-.bordure{
-
- font-size: 21px;
- text-align:left;
- color:#f1f1f1;
- padding-left: 160px;
- text-decoration:underline;
- font-style:italic;
- font-family:Arial, Helvetica, sans-serif;
-
+.bordure {
+  font-size: 21px;
+  text-align: left;
+  color: #f1f1f1;
+  padding-left: 160px;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-
-.trait_dessus{
-  border:  1px solid rgb(254, 252, 252);
-  width : 1250px;
+.trait_dessus {
+  border: 1px solid rgb(254, 252, 252);
+  width: 1250px;
   margin-left: 90px;
-
- 
 }
 
-
-.formeeffectif{
-  color:rgb(248, 241, 241);
+.formeeffectif {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
-  padding-left:120px;
-  padding-inline:112px;
+  padding-left: 120px;
+  padding-inline: 112px;
   padding-top: 70px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-
-
-.formeeffectif2{
-  color:rgb(248, 241, 241);
+.formeeffectif2 {
+  color: rgb(248, 241, 241);
   font-size: 16px;
-  text-align:left;
-  padding-left:138px;
+  text-align: left;
+  padding-left: 138px;
   padding-inline: 98px;
   padding-top: 60px;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-
-
-
-.logoclubs{
+.logoclubs {
   flex-direction: row;
   padding-left: 80px;
-  
-  
-  
 }
 
-
-
-.deplacementlogo{
-
+.deplacementlogo {
   display: flex;
-  gap:130px;
-
+  gap: 130px;
 }
 
-
-.deplacementtitre{
-     margin: 4px;
+.deplacementtitre {
+  margin: 4px;
 }
-
-
 
 a {
   text-decoration: none;
 }
 
 .titreclub {
-
   font-size: 30px;
-  color:white;
+  color: white;
   text-align: center;
   margin: 30px 30px;
   margin-bottom: 100px;
-  font-family: 'Secular One', sans-serif;
-
+  font-family: "Secular One", sans-serif;
 }
 
 .titreclub2 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 112px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
-
 .titreclub3 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 90px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub4 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 130px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub5 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 140px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub6 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 140px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub7 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 70px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub8 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 96px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub9 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 156px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub10 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 148px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub11 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 121px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub12 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 142px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub13 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 125px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub14 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 115px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub15 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 114px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub16 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 150px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub17 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 150px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub18 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 144px;
   gap: 50px;
   flex-direction: row;
-  
 }
 .titreclub19 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 114px;
   gap: 50px;
   flex-direction: row;
 }
 
 .titreclub20 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 116px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .titreclub21 {
- 
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 105px;
   gap: 50px;
   flex-direction: row;
-  
-}.titreclub22 {
- 
+}
+.titreclub22 {
   font-size: 15px;
-  color:white;
-  font-family:'Secular One', sans-serif; ;
+  color: white;
+  font-family: "Secular One", sans-serif;
   padding-left: 130px;
   gap: 50px;
   flex-direction: row;
-  
 }
 
 .stadecl {
-
   background-image: url("assets/stadeclermont2.jpg");
   height: 258px;
   width: 100%;
@@ -542,9 +471,8 @@ a {
   justify-content: center;
   margin: 0px;
   padding: 30px 20px;
-  gap:100px;
+  gap: 100px;
   text-decoration: none;
-  
 }
 
 .imgcle {
@@ -552,153 +480,124 @@ a {
   height: 50px;
   width: 60px;
   background-size: cover;
- 
 }
 
-.palmares{
+.palmares {
   font-size: 26px;
-  color:white;
+  color: white;
   text-align: center;
   margin: 20px 30px;
-  font-family: 'Secular One', sans-serif;
-  font-weight:bold;
-
+  font-family: "Secular One", sans-serif;
+  font-weight: bold;
 }
 
-.titretrophee{
-
+.titretrophee {
   font-size: 18px;
-  color:white;
+  color: white;
   text-align: left;
   margin-bottom: 30px;
-  margin-top:  100px;
+  margin-top: 100px;
   margin-left: 20px;
   text-decoration: underline;
-  font-family: 'Secular One', sans-serif;
-
+  font-family: "Secular One", sans-serif;
 }
 
-.formepalm{
-  color:rgb(248, 241, 241);
+.formepalm {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
   padding-left: 70px;
   padding-top: 70px;
 }
-.formepalm2{
-  color:rgb(248, 241, 241);
+.formepalm2 {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
   padding-left: 70px;
   padding-top: 50px;
 }
 
-.formepalm3{
-  color:rgb(248, 241, 241);
+.formepalm3 {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
   padding-left: 70px;
   padding-top: 50px;
 }
 
-.formepalm4{
-  color:rgb(248, 241, 241);
+.formepalm4 {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
   padding-left: 550px;
   padding-top: 50px;
 }
 
-.formepalm5{
-  color:rgb(248, 241, 241);
+.formepalm5 {
+  color: rgb(248, 241, 241);
   font-size: 16px;
   text-align: left;
   padding-left: 550px;
   padding-top: 50px;
 }
 
-.formestat{
-  color:rgb(248, 241, 241);
+.formestat {
+  color: rgb(248, 241, 241);
   font-size: 23px;
   text-align: left;
-  padding-left:120px;
+  padding-left: 120px;
   padding-top: 20px;
 }
 
-
-.text{
-
-  color:rgb(248, 241, 241);
+.text {
+  color: rgb(248, 241, 241);
   font-size: 18px;
   margin: -5px;
   /* padding-left: -50px;
   padding-right: 50px; */
- 
-  text-align: left;
 
+  text-align: left;
 }
 
-.text2{
-
-  color:rgb(248, 241, 241);
-  font-size:18px;
+.text2 {
+  color: rgb(248, 241, 241);
+  font-size: 18px;
   /* padding-right: 40px; */
   margin-bottom: 200px;
   margin-left: 80px;
   text-align: left;
 }
 
-h2{
-
-  color:rgb(254, 252, 252);
-  margin-bottom:40px ;
+h2 {
+  color: rgb(254, 252, 252);
+  margin-bottom: 40px;
   margin-left: -180px;
   font-size: 20px;
   text-decoration: underline;
-
-
- 
-  
 }
 
 table {
-
   margin-left: 115px;
   margin-bottom: 70px;
- 
+
   width: 1200px;
-  
-  
 }
 
-th, td {
+th,
+td {
   padding: 15px;
   padding-top: 30px;
-
 }
 
-
-
-.t1{
-
+.t1 {
   table-layout: fixed;
 }
 
-.statistique{
-
-    font-size: 25px;
-    color:#f1f1f1;
-    text-align: center;
-    padding-top: 80px;
-    padding-bottom: 60px;
-    text-decoration:solid;
+.statistique {
+  font-size: 25px;
+  color: #f1f1f1;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 60px;
+  text-decoration: solid;
 }
-
-
-
-
-
-
-
-
-

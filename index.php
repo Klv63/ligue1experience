@@ -7,26 +7,26 @@ include './partials/header.php';
 <body>
     <div class="clubs">
         <div class="crest">
-            <a href=""><img src="accueil\Blasons Ligue 1\Ajaccio.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Auxerre.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Anger.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Brest.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Clermont-Ferrand.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Lens.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Lilles.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Lorient.png" alt="crest" href="blason" /></a>
-            <a href=""> <img src="accueil\Blasons Ligue 1\Lyon.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Marseille.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Monaco.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Montpellier.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Nantes.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Nice.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Paris SG.png" alt="crest" href="blason" /></a>
-            <a href=""> <img src="accueil\Blasons Ligue 1\Reims.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\RENNES.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Strasbourg.png" alt="crest" href="blason" /></a>
-            <a href=""><img src="accueil\Blasons Ligue 1\Toulouse.png" alt="crest" href="blason" /></a>
-            <a href=""> <img src="accueil\Blasons Ligue 1\Troyes.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Ajaccio.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Auxerre.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Anger.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Brest.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Clermont-Ferrand.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Lens.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Lilles.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Lorient.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="assets\Blasons Ligue 1\Lyon.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Marseille.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Monaco.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Montpellier.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Nantes.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Nice.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Paris SG.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="assets\Blasons Ligue 1\Reims.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\RENNES.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Strasbourg.png" alt="crest" href="blason" /></a>
+            <a href=""><img src="assets\Blasons Ligue 1\Toulouse.png" alt="crest" href="blason" /></a>
+            <a href=""> <img src="assets\Blasons Ligue 1\Troyes.png" alt="crest" href="blason" /></a>
         </div>
     </div>
     <h1><b>Actualité</b></h1>

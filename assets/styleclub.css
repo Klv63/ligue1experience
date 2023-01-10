@@ -168,6 +168,7 @@ p {
   gap: 20px;
 }
 
+
 .titreclub {
 
   font-size: 25px;
@@ -628,8 +629,8 @@ a {
 .text{
 
   color:rgb(248, 241, 241);
-  font-size: 22px;
-  margin: -15px;
+  font-size: 18px;
+  margin: -5px;
   /* padding-left: -50px;
   padding-right: 50px; */
  
@@ -640,10 +641,10 @@ a {
 .text2{
 
   color:rgb(248, 241, 241);
-  font-size: 26px;
+  font-size:18px;
   /* padding-right: 40px; */
   margin-bottom: 200px;
-  margin-left: 40px;
+  margin-left: 80px;
   text-align: left;
 }
 
@@ -652,6 +653,8 @@ h2{
   color:rgb(254, 252, 252);
   margin-bottom:40px ;
   margin-left: -180px;
+  font-size: 20px;
+  text-decoration: underline;
 
 
  
@@ -660,7 +663,7 @@ h2{
 
 table {
 
-  margin-left: 80px;
+  margin-left: 115px;
   margin-bottom: 70px;
  
   width: 1200px;
@@ -669,7 +672,7 @@ table {
 }
 
 th, td {
-  padding: 5px;
+  padding: 15px;
   padding-top: 30px;
 
 }

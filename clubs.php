@@ -12,21 +12,21 @@ include './partials/header.php';
         <div class="deplacementlogo">
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Ajaccio.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Ajaccio.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Anger.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Anger.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Auxerre.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Auxerre.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Brest.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Brest.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
         </div>
@@ -57,20 +57,20 @@ include './partials/header.php';
         <div class="deplacementlogo">
 
             <div class="logoclubs">
-                <a href="clermontpresentation.php"><img src="accueil/Blasons Ligue 1/Clermont-Ferrand.png" alt="logo"
+                <a href="clermontpresentation.php"><img src="assets/Blasons Ligue 1/Clermont-Ferrand.png" alt="logo"
                         href="logo" style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Lens.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Lens.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Lilles.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Lilles.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Lorient.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Lorient.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
         </div>
@@ -103,20 +103,20 @@ include './partials/header.php';
         <div class="deplacementlogo">
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Lyon.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Lyon.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Marseille.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Marseille.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Monaco.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Monaco.png" alt="logo" href="logo"
                         style="width: 133px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Montpellier.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Montpellier.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
         </div>
@@ -148,20 +148,20 @@ include './partials/header.php';
         <div class="deplacementlogo">
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Nantes.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Nantes.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Nice.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Nice.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Paris SG.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Paris SG.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Reims.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Reims.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
         </div>
@@ -192,20 +192,20 @@ include './partials/header.php';
         <div class="deplacementlogo">
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Rennes.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Rennes.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href="c"><img src="accueil/Blasons Ligue 1/Strasbourg.png" alt="logo" href="logo"
+                <a href="c"><img src="assets/Blasons Ligue 1/Strasbourg.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
 
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Toulouse.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Toulouse.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
             <div class="logoclubs">
-                <a href=""><img src="accueil/Blasons Ligue 1/Troyes.png" alt="logo" href="logo"
+                <a href=""><img src="assets/Blasons Ligue 1/Troyes.png" alt="logo" href="logo"
                         style="width: 130px;" /></a>
             </div>
         </div>
